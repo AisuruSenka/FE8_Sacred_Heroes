@@ -1,5 +1,12 @@
+# BUGFIXES: 11/3/25
+
+- Fixed a bug wherein Hodr does not remain in the party at the end of Alfonse's Ch. 10
+and Mirabilis does not properly get recruited in Alfonse's Ch. 12
+
+- Added Garytop's Nidavellir portrait
+
 # ABOUT THIS ROMHACK
-Hello! As of present (10/31/25), this romhack is MOSTLY finished.
+Hello! As of present (11/3/25), this romhack is MOSTLY finished.
 The only truly unfinished things are supports. The finished supports
 are listed below, but more supports listings are there with
 placeholder text. I do intend to come back and finish them at a
