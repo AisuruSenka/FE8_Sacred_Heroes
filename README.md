@@ -139,6 +139,8 @@ detract from the experience overall.
 - Some menu text becomes slightly corrupted in menus after viewing
 information for certain characters (Laevatein, Ratatoskr,
 Hraesvelgr, & Laegjarn, maybe a few others I forgot). This is due
+to their names being longer than 8 characters. I blame IntSys for this
+one. I could shorten their names to fix this, I guess.
 
 # CREDITS
 Made using FE Builder GBA
@@ -146,7 +148,7 @@ https://github.com/FEBuilderGBA/FEBuilderGBA
 
 
 
-	BATTLE ANIMATIONS:
+BATTLE ANIMATIONS:
 
 Lord (Sharena): [Ephraim-Variant] T1 Lancer Fix [F] by Memae(Memai)
 Credits:
@@ -586,6 +588,9 @@ https://github.com/Klokinator/FE-Repo/blob/main/Portrait%20Repository/FE%20Spino
 
 Thorr: Thórr (FEH) by Garytop
 https://github.com/Klokinator/FE-Repo/blob/main/Portrait%20Repository/FE%20Spinoff%20Game%20Mugs%20(Cipher%2C%20Warriors%2C%20Heroes)/Th%C3%B3rr%20(FEH)%20%7BGarytop%7D%20%5BF2E%5D.png
+
+Nidavellir: Niðavellir by Garytop
+https://github.com/Klokinator/FE-Repo/blob/main/Portrait%20Repository/FE%20Spinoff%20Game%20Mugs%20(Cipher%2C%20Warriors%2C%20Heroes)/Ni%C3%B0avellir%20%7BGarytop%7D%20%5BF2E%5D.png
 
 Arvis: Arvis (Emperor) by Wellington McSkellington
 https://github.com/Klokinator/FE-Repo/blob/main/Portrait%20Repository/FE04%2C%2005%20Mugs%20(Genealogy%20of%20the%20Holy%20War%2C%20Thracia%20776)/Arvis%20(Emperor)%20%7BWellington%20McSkellington%7D%20%5BF2E%5D.png
