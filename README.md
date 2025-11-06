@@ -1,4 +1,13 @@
-# BUGFIXES: 11/3/25
+# CHANGES: 11/5/25
+
+- Fixed an error in Ash's recruitment dialogue
+with Alfonse in Alfonse's Ch. 10.
+
+- Made it possible to recruit Ash with Hodr in Alfonse's Ch. 10.
+
+- Added supports between Nidhoggr and Hraesvelgr.
+
+# CHANGES: 11/3/25
 
 - Fixed a bug wherein Hodr does not remain in the party at the end of Alfonse's Ch. 10
 and Mirabilis does not properly get recruited in Alfonse's Ch. 12
