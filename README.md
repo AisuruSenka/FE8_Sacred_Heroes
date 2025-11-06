@@ -827,5 +827,3 @@ Don't die in the arena. stay at 1 HP [AUTHOR NOT LISTED]
 Simple setting of Sacred Weapons 2 by 7743
 
 I feel like I owe 7743 and circleseverywhere my life for all of this
-to their names being longer than 8 characters. I blame IntSys for this
-one. I could shorten their names to fix this, I guess.
