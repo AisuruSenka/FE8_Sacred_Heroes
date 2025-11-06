@@ -10,7 +10,10 @@ with Alfonse in Alfonse's Ch. 10.
 # CHANGES: 11/3/25
 
 - Fixed a bug wherein Hodr does not remain in the party at the end of Alfonse's Ch. 10
-and Mirabilis does not properly get recruited in Alfonse's Ch. 12
+
+- Fixed a bug that caused Mirabilis to not properly get recruited in Alfonse's Ch. 12
+
+- Fixed a bug that caused the game to freeze during a cutscene in Alfonse's Ch. 14
 
 - Added Garytop's Nidavellir portrait
 
