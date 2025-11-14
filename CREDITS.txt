@@ -58,6 +58,13 @@ Staff by Primefusion.
 Magic by SaintRubenio.
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BPaladin-Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons
 
+Villager: [Villager-Custom] Villager v2 [F] by Nuramon
+Credits:
+Still by ErrantShepherd and Nuramon.
+Animation by Nuramon.
+Sword (Blade Beam) by SageHapuiaJDJ.
+https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20Villager%20v2%20%5BF%5D%20by%20Nuramon
+
 Mercenary (female): [Mercenary-Reskin] Generic [F] v2 by TBA
 Credits:
 Vanilla FE8 Mercenary Male animation by Intelligent Systems.
@@ -290,6 +297,10 @@ https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Sw
 Trickster: Trickster (F) by StreetHero & Sable Mage
 https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Swd)%20Thieves%2C%20Rogues%2C%20Assassins/Trickster%20(F)%20%7BStreetHero%2C%20Sable%20Mage%7D-stand.png
 https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Swd)%20Thieves%2C%20Rogues%2C%20Assassins/Trickster%20(F)%20%7BStreetHero%2C%20Sable%20Mage%7D-walk.png
+
+Villager: Villager (F) v2 Sword by HyperGammaSpaces
+https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/Villager%20(F)%20v2%20Sword%20%7BHyperGammaSpaces%7D-stand.png
+https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/Villager%20(F)%20v2%20Sword%20%7BHyperGammaSpaces%7D-walk.png
 
 Mercenary (female): Mercenary (F) Sword by Agro
 https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/Mercenary%20(F)%20Sword%20%7BAgro%7D-stand.png

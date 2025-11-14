@@ -1,4 +1,31 @@
-Hello! As of present (10/31/25), this romhack is MOSTLY finished.
+   CHANGES: 11/14/25
+
+- Added villager class (sword trainee, promotes to thief or mercenary)
+
+- Ylgr rework: class thief -> villager, personal skill blossom -> arcane blade
+
+- Added supports between Laevatein and Laegjarn
+
+   CHANGES: 11/5/25
+
+- Fixed an error in Ash's recruitment dialogue
+with Alfonse in Alfonse's Ch. 10.
+
+- Made it possible to recruit Ash with Hodr in Alfonse's Ch. 10.
+
+- Added supports between Nidhoggr and Hraesvelgr.
+
+   CHANGES: 11/3/25
+
+- Fixed a bug wherein Hodr does not remain in the party at the end of Alfonse's Ch. 10
+
+- Fixed a bug that caused Mirabilis to not properly get recruited in Alfonse's Ch. 12
+
+- Fixed a bug that caused the game to freeze during a cutscene in Alfonse's Ch. 14
+
+- Added Garytop's Nidavellir portrait
+
+Hello! As of present (11/13/25), this romhack is MOSTLY finished.
 The only truly unfinished things are supports. The finished supports
 are listed below, but more supports listings are there with
 placeholder text. I do intend to come back and finish them at a
@@ -31,14 +58,14 @@ and honestly I have forgotten most of them.
 - Changed recruitment dialogues, endings, boss quotes, and death quotes
 
 CHARACTERS & RECRUITMENT:
-(Note: A denotes Alfonse/Eirika chapters, S denotes Sharena/Ephraim chapters)
+(Note: "A" denotes Alfonse/Eirika chapters, "S" denotes Sharena/Ephraim chapters)
 - Alfonse (Lord): prologue, from start
 - Anna (Commander): prologue, from start
 - Hrid (Cavalier): ch.1, turn 2
 - Fjorm (Soldier): ch.1, turn 2
 - Gunnthra (Troubadour): ch.1, end of chapter
 - Eir (Pegasus Knight): ch.1, end of chapter
-- Ylgr (Thief): ch.2 (NPC), speak with Fjorm OR end of chapter
+- Ylgr (Villager): ch.2 (NPC), speak with Fjorm OR end of chapter
 - Helbindi (Brigand): ch.2 (NPC), speak with Ylgr OR end of chapter
 - Dagr (Fighter): ch.3, from start
 - Nott (Soldier): ch.3 (NPC), speak with Dagr OR end of chapter
