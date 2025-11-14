@@ -1,3 +1,11 @@
+# CHANGES: 11/14/25
+
+- Added villager class (sword trainee, promotes to thief or mercenary)
+
+- Ylgr rework: class thief -> villager, personal skill blossom -> arcane blade
+
+- Added supports between Laevatein and Laegjarn
+
 # CHANGES: 11/5/25
 
 - Fixed an error in Ash's recruitment dialogue
@@ -18,7 +26,7 @@ with Alfonse in Alfonse's Ch. 10.
 - Added Garytop's Nidavellir portrait
 
 # ABOUT THIS ROMHACK
-Hello! As of present (11/3/25), this romhack is MOSTLY finished.
+Hello! As of present (11/14/25), this romhack is MOSTLY finished.
 The only truly unfinished things are supports. The finished supports
 are listed below, but more supports listings are there with
 placeholder text. I do intend to come back and finish them at a
@@ -54,14 +62,14 @@ and honestly I have forgotten most of them.
 - Changed recruitment dialogues, endings, boss quotes, and death quotes
 
 CHARACTERS & RECRUITMENT:
-(Note: A denotes Alfonse/Eirika chapters, S denotes Sharena/Ephraim chapters)
+(Note: "A" denotes Alfonse/Eirika chapters, "S" denotes Sharena/Ephraim chapters)
 - Alfonse (Lord): prologue, from start
 - Anna (Commander): prologue, from start
 - Hrid (Cavalier): ch.1, turn 2
 - Fjorm (Soldier): ch.1, turn 2
 - Gunnthra (Troubadour): ch.1, end of chapter
 - Eir (Pegasus Knight): ch.1, end of chapter
-- Ylgr (Thief): ch.2 (NPC), speak with Fjorm OR end of chapter
+- Ylgr (Villager): ch.2 (NPC), speak with Fjorm OR end of chapter
 - Helbindi (Brigand): ch.2 (NPC), speak with Ylgr OR end of chapter
 - Dagr (Fighter): ch.3, from start
 - Nott (Soldier): ch.3 (NPC), speak with Dagr OR end of chapter
@@ -221,6 +229,13 @@ Vanilla animation by Intelligent Systems
 Staff by Primefusion.
 Magic by SaintRubenio.
 https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Mounted%20-%20Cavs%2C%20Paladins%2C%20Rangers/%5BPaladin-Base%5D%20%5BF%5D%20Vanilla%20%2BWeapons
+
+Villager: [Villager-Custom] Villager v2 [F] by Nuramon
+Credits:
+Still by ErrantShepherd and Nuramon.
+Animation by Nuramon.
+Sword (Blade Beam) by SageHapuiaJDJ.
+https://github.com/Klokinator/FE-Repo/tree/main/Battle%20Animations/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/%5BVillager-Custom%5D%20Villager%20v2%20%5BF%5D%20by%20Nuramon
 
 Mercenary (female): [Mercenary-Reskin] Generic [F] v2 by TBA
 Credits:
@@ -454,6 +469,10 @@ https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Sw
 Trickster: Trickster (F) by StreetHero & Sable Mage
 https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Swd)%20Thieves%2C%20Rogues%2C%20Assassins/Trickster%20(F)%20%7BStreetHero%2C%20Sable%20Mage%7D-stand.png
 https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Swd)%20Thieves%2C%20Rogues%2C%20Assassins/Trickster%20(F)%20%7BStreetHero%2C%20Sable%20Mage%7D-walk.png
+
+Villager: Villager (F) v2 Sword by HyperGammaSpaces
+https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/Villager%20(F)%20v2%20Sword%20%7BHyperGammaSpaces%7D-stand.png
+https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/Villager%20(F)%20v2%20Sword%20%7BHyperGammaSpaces%7D-walk.png
 
 Mercenary (female): Mercenary (F) Sword by Agro
 https://github.com/Klokinator/FE-Repo/blob/main/Map%20Sprites/Infantry%20-%20(Swd)%20Mercenaries%20and%20Heroes/Mercenary%20(F)%20Sword%20%7BAgro%7D-stand.png
