@@ -6,6 +6,8 @@
 
 - Added supports between Laevatein and Laegjarn
 
+- Fixed a glitch that allowed you to gain infinite Barrier staves in Alfonse's Ch. 12
+
 # CHANGES: 11/5/25
 
 - Fixed an error in Ash's recruitment dialogue
